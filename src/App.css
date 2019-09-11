@@ -9,7 +9,7 @@
 .display {
     margin-top: 25px;
     height: 100px;
-    width: 450px;
+    width: 80%;
     border-radius: 50px;
     color: white;
     background-color: #322c2d;
@@ -19,4 +19,43 @@
     align-items: flex-end;
     padding-right: 8%;
     font-size: 5.0rem;
+    margin: 25px auto;
+  }
+
+  .App{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    flex-direction: row;
+    margin:10% auto;
+    justify-content: space-evenly;
+    border: 2px solid gold;
+
+}
+
+  .button{
+      display: flex;
+      /* flex-direction: column; */
+      /* flex-wrap: wrap; */
+      margin: 3%;
+      border-radius: 100%;
+      padding: 15%;
+      width: 100%;
+      color: white;
+
+  }
+
+  .ops{
+      background:rgb(61,181,229);
+      
+
+
+  }
+
+  .special{
+      background:rgb(32,97,176);
+  }
+
+  .numbs{
+      background:rgb(17,60,120);
   }
