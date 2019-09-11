@@ -28,9 +28,9 @@ This project was put together using create-react-app (CRA). You will not need to
 - [x] CD into the project base directory `cd lambda-calculator`
 - [ x] Download project dependencies by running one of these two commands `yarn` or `npm install`
 - [ ] Using the same command tool (yarn or npm) start up the app using `yarn start` or `npm start`
-- [ x] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [x] Create a new branch: git checkout -b `<firstName-lastName>`.
       Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [x] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
